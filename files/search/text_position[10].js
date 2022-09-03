@@ -1,0 +1,1 @@
+positionForPages[10]={"page":10,"positions":[{"word":"www","left":0.363197,"top":0.922581,"width":0.050588,"height":0.007649},{"word":"virtualsheetmusic","left":0.420064,"top":0.918474,"width":0.164958,"height":0.011757},{"word":"com","left":0.592477,"top":0.922365,"width":0.039581,"height":0.007866}]};
